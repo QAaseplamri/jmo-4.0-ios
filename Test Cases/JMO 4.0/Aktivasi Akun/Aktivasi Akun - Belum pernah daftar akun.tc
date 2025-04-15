@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Aktivasi Akun - Belum pernah daftar akun</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9275299a-6620-4dbc-8e90-1c4bcbc1919f</testCaseGuid>
+</TestCaseEntity>

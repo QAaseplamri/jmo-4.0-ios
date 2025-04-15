@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Aktivasi Akun - Sudah daftar akun</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8e2ab39-458f-4538-9f85-c198c39531ca</testCaseGuid>
+</TestCaseEntity>
